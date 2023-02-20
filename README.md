@@ -4,11 +4,21 @@ Welcome to my GitHub, I'm Sarah!
 
 <img align="right" alt="Sarah-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/81649794/219900200-735a9bf1-470e-4951-b2aa-57399cacbeac.gif">
 
-I'm 23 years old, Brazilian nationality and I'm in the process of becoming a Full Stack programmer.
+I'm 23 years old, from Brazil and in the process of becoming a Full Stack Developer
 
-<p>🤓 I'm currently graduated in Systems Analysis and Development and I have certifications in PostgreSQL, Power BI and Python courses.</p>
-<p>💻 I'm currently work as Quality Assurance (QA) and I was a Managerial Information Systems Analyst (M.I.S.).</p>
-<p>🎯 I'm currently studying the full stack development process, seeking to master the various technologies applied to both the back-end and front-end.</p>
+
+## 💻 My qualifications are as follow:
+
+- System Analysis
+- PostreSQL
+- Power BI
+- Python
+
+## 🎯 Works
+
+<p>In my previous job I took the role of a Managerial Information systems Analyst (M.I.S) and at the moment I work with Quality Assurance (QA)</p>
+
+<p>I am currently thr full stack development process in order for me to master the various technologies appplied to both back-end and front-end.</p>
 
 ## 🚀 In progress 
 
