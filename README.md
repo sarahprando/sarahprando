@@ -21,7 +21,7 @@ I'm 23 years old, from Brazil and in the process of becoming a Full Stack Develo
 ## 🚀 In progress 
 
 <div style="display: inline_block"><br>
-  <p>I am currently studying the full stack development process in order for me to master the various Technologies applied to both back-end and front-end.</p>
+  <p>I am currently in the process of becoming a Full Stack Developer which will allow to master the various Technologies applied to both back-end and front-end.</p>
   <img align="center" alt="Sarah-Js" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Sarah-React" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Sarah-HTML" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
