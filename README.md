@@ -7,14 +7,6 @@ Welcome to my GitHub, I'm Sarah!
 
 I'm 23 years old, from Brazil and in the process of becoming a Full Stack Developer
 
-
-## 💻 My qualifications are as follow:
-
-- System Analysis
-- PostreSQL
-- Power BI
-- Python
-
 ## 🎯 Works
 
 <p>In my previous job I took the role of a Managerial Information Systems Analyst (M.I.S) and at the moment I work with Quality Assurance (QA)</p>
