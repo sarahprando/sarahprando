@@ -1,5 +1,5 @@
 ## Hello world! 👋
-***
+
 
 Welcome to my GitHub, I'm Sarah!
 
@@ -9,18 +9,18 @@ I'm 23 years old, from Brazil and in the process of becoming a Full Stack Develo
 
 
 ## 💻 My qualifications are as follow:
-***
+
 - System Analysis
 - PostreSQL
 - Power BI
 - Python
 
 ## 🎯 Works
-***
+
 <p>In my previous job I took the role of a Managerial Information Systems Analyst (M.I.S) and at the moment I work with Quality Assurance (QA)</p>
 
 ## 🚀 In progress 
-***
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Sarah-Js" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" target="_blank">
   <img align="center" alt="Sarah-React" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" target="_blank">
@@ -32,7 +32,7 @@ I'm 23 years old, from Brazil and in the process of becoming a Full Stack Develo
 </div>
 
 ## 📱 Contacts
-***
+
 <div style="display: inline_block"><br>
   <a href="https://www.linkedin.com/in/sarah-prando-26a5751b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href = "mailto:sarahprando40@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
