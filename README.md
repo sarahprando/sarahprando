@@ -5,7 +5,7 @@ Welcome to my GitHub, I'm Sarah!
 
 <img align="right" alt="Sarah-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/81649794/219900200-735a9bf1-470e-4951-b2aa-57399cacbeac.gif">
 
-I'm 23 years old, from Brazil and in the process of becoming a Full Stack Developer
+I'm 24 years old, from Brazil and in the process of becoming a Full Stack Developer
 
 ## 🎯 Works
 
