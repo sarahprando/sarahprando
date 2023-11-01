@@ -9,7 +9,7 @@ I'm 24 years old, from Brazil and in the process of becoming a Full Stack Develo
 
 ## 🎯 Works
 
-<p>In my previous job I took the role of a Managerial Information Systems Analyst (M.I.S) and at the moment I work with Quality Assurance (QA)</p>
+<p>In my previous job I took the role of a Managerial Information Systems Analyst (M.I.S) and Quality Assurance (QA)</p>
 
 ## 🚀 In progress 
 
