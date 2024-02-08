@@ -5,13 +5,8 @@ Welcome to my GitHub, I'm Sarah!
 
 <img align="right" alt="Sarah-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/81649794/219900200-735a9bf1-470e-4951-b2aa-57399cacbeac.gif">
 
-I'm 24 years old, from Brazil and in the process of becoming a Full Stack Developer
-
-## 🎯 Works
-
-<p>In my previous job I took the role of a Managerial Information Systems Analyst (M.I.S) and Quality Assurance (QA)</p>
-
-## 🚀 In progress 
+<p>I'm 24 years old, from Brazil and in the process of becoming a Full Stack Developer.</p>
+<p>In my previous job I took the role of a Managerial Information Systems Analyst (M.I.S) and Quality Assurance (QA).</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Sarah-Js" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" target="_blank">
