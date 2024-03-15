@@ -8,6 +8,9 @@ Welcome to my GitHub, I'm Sarah!
 <p>I'm 24 years old, from Brazil and in the process of becoming a Full Stack Developer.</p>
 <p>In my previous job I took the role of a Managerial Information Systems Analyst (M.I.S) and Quality Assurance (QA).</p>
 
+<br />
+<p><a href="https://sarahprando.netlify.app/">My Portfolio 😄</a></p>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Sarah-Js" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" target="_blank">
   <img align="center" alt="Sarah-React" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" target="_blank">
