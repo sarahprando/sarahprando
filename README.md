@@ -19,7 +19,8 @@ Welcome to my GitHub, I'm Sarah!
   <img align="center" alt="Sarah-Python" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" target="_blank">
   <img align="center" alt="Sarah-GitHub" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" target="_blank">
   <img align="center" alt="Sarah-Git" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" target="_blank">
-  <img align="center" alt="Sarah-PHP" height="30" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" target="_blank" />
+  <img align="center" alt="Sarah-PHP" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" target="_blank" />
+  <img align="center" alt="Sarah-PHP" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" target="_blank"/>
           
 </div>
 
