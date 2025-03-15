@@ -5,8 +5,8 @@ Welcome to my GitHub, I'm Sarah!
 
 <img align="right" alt="Sarah-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/81649794/219900200-735a9bf1-470e-4951-b2aa-57399cacbeac.gif">
 
-<p>I'm 24 years old, from Brazil and in the process of becoming a Full Stack Developer.</p>
-<p>In my previous job I took the role of a Managerial Information Systems Analyst (M.I.S) and Quality Assurance (QA).</p>
+<p>I'm 25 years old, from Brazil and in the process of becoming a Full Stack Developer.</p>
+<p>In my previous job I took the role of a Managerial Information Systems Analyst (M.I.S), Quality Assurance (QA) and Suport.</p>
 
 <br />
 <p><a href="https://sarahprando.netlify.app/">My Portfolio</a> 😄</p>
@@ -20,7 +20,11 @@ Welcome to my GitHub, I'm Sarah!
   <img align="center" alt="Sarah-GitHub" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" target="_blank">
   <img align="center" alt="Sarah-Git" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" target="_blank">
   <img align="center" alt="Sarah-PHP" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" target="_blank" />
-  <img align="center" alt="Sarah-PHP" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" target="_blank"/>
+  <img align="center" alt="Sarah-Bootstrap" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" target="_blank"/>
+  <img align="center" alt="Sarah-Tailwind" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+  <img align="center" alt="Sarah-TypeScript" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="Sarah-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Sarah-JMysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
           
 </div>
 
@@ -31,6 +35,5 @@ Welcome to my GitHub, I'm Sarah!
   <a href = "mailto:sarahprando40@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/sarahprando" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://instagram.com/sarahprando" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.facebook.com/profile.php?id=100012933465363" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 
 </div>
